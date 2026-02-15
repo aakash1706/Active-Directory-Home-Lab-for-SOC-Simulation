@@ -22,3 +22,20 @@ Splunk SIEM for log ingestion, indexing, and detection queries.
 Kali Linux with Crowbar for RDP brute-force attacks (RockYou wordlist).
 
 Atomic Red Team for MITRE ATT&CK technique emulation.
+
+<img width="940" height="811" alt="image" src="https://github.com/user-attachments/assets/c66a6c38-53af-469f-a1c7-ce84e09a4d7b" />
+
+**Attacking Target machine:**
+
+<img width="940" height="358" alt="image" src="https://github.com/user-attachments/assets/3d2d8f2a-1be6-4f5f-88bb-ccfc66f7692a" />
+
+**Splunk SIEM querying for threat detection :**
+<img width="602" height="383" alt="image" src="https://github.com/user-attachments/assets/e4ea5e69-40c2-4760-a76e-edc60053420a" />
+
+**Atomic Red Team for MITRE ATT&CK technique emulation:**
+<img width="940" height="653" alt="image" src="https://github.com/user-attachments/assets/61b8e524-b32e-4ea0-abdd-c6bc598cfb4e" />
+<img width="940" height="679" alt="image" src="https://github.com/user-attachments/assets/bf2b16a0-2646-4953-a694-33efc5b4eb05" />
+<img width="940" height="662" alt="image" src="https://github.com/user-attachments/assets/a4a86efb-c8dc-41c9-b7ad-917b2ca58c35" />
+
+
+
